@@ -1,0 +1,19 @@
+{
+  "name": "happynewyear",
+  "version": "1.0.0",
+  "description": "新年动画网页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenadolanter/happynewyear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenadolanter/happynewyear/issues"
+  },
+  "homepage": "https://github.com/tenadolanter/happynewyear#readme"
+}
