@@ -4,16 +4,22 @@
   "description": "新年动画网页",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tenadolanter/happynewyear.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tenadolanter/happynewyear/issues"
   },
-  "homepage": "https://github.com/tenadolanter/happynewyear#readme"
+  "homepage": "https://github.com/tenadolanter/happynewyear#readme",
+  "devDependencies": {
+    "sass": "^1.69.6",
+    "vitepress": "^1.0.0-rc.34"
+  }
 }
